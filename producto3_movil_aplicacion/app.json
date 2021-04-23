@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "producto3_movil_aplicacion",
+    "slug": "producto3_movil_aplicacion",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "*assests/*"
+    ],
+    "android": {
+     "package": "com.biblioteca.utp",
+     "versionCode":1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+     
+    }
+  }
+}

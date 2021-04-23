@@ -1,0 +1,14 @@
+{
+    "users":[
+      {
+        "user": "maria.perez@utpuebla.edu.mx",
+        "password": "12345",
+        "id": 1000
+      },
+      {
+        "user": "juan.mendez@utpuebla.edu.mx",
+        "password": "54321",
+        "id": 1002
+      }
+    ]
+  }
